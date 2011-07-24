@@ -14,8 +14,7 @@ käyttänyt työskentelyyn sekä opiskelijajärjestöissä toimimiseen.
 
 Vuosi takaperin heräsi päässäni jälleen ajatus muuttaa pois Suomesta. [Kyynelkaasuisku
 Pride-kulkueeseen](http://omakaupunki.hs.fi/paakaupunkiseutu/uutiset/pride-kulkueen_marssijoita_sumutettiin_kyynelkaasulla/),
-[tiettyjen poliitikkojen reaktiot
-tapahtuneeseen](http://www.hs.fi/politiikka/artikkeli/Räsänen+Kommenttejani+Pride-iskusta+vääristelty/1135258630358),
+[tiettyjen poliitikkojen reaktiot tapahtuneeseen](http://www.hs.fi/politiikka/artikkeli/Räsänen+Kommenttejani+Pride-iskusta+vääristelty/1135258630358),
 Suomen poliittinen halu kieltää kaikki valtavirrasta poikkeava ja toki myös
 kesää seurannut pitkä ja kylmä talvi vakuuttivat, että on aika muuttaa pois.
 Tyttöystäväni ja lukuisten suomalaiskavereiden kanssa olemme lomailleet useasti
