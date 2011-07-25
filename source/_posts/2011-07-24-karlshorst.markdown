@@ -18,7 +18,7 @@ ringin sisäpuolella tottuneet.
 
 {% img /pics/kahvila.jpg Idyllinen korttelikahvila Karlshorstissa %}
 
-Ravintoja sijaitsee kauniilla, Eiraa kovasti muistuttavalla asuinalueella.
+Ravintola sijaitsee kauniilla ja idyllisellä asuinalueella.
 Vanhoja kivitaloja puiden ympäröimänä, hinnat sadan neliön asunnolle kahdella
 parvekkeella noin 800-900 euroa kuussa. Mietimme pitkään Karlshorstissa asumista
 yhtenä vaihtoehtona, onhan alueelta julkisilla vain puolen tunnin työmatka.
