@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Mitte"
+date: 2011-07-25 19:43
+comments: true
+categories: kaupunginosat
+---
+
+Viimeiset päivät kuukauden kesälomasta alkavat olla käsillä ja yritimme vielä
+tehdä viime hetken ostoksia. Heti alkuun törmäsimme ongelmiin Berliinin S-bahnin
+kanssa. S-bahn -liikenne on pääasiassa maan päällä kulkevaa junaliikennettä,
+jonka asemavälit ovat hiukan U-bahnia pidemmät sekä jonka kulkusäde on
+huomattavasti pidempi kuin U-bahnilla. S-bahn ei nimittäin toimi kauhean hyvin
+tässä kaupungissa. Paikalliset valittavat junien olevan aina rikki talvisin,
+mutta tällä kertaa myös kesäpäivänä jumittui kaikki länteen kulkeva liikenne
+Warschauer Straßelle, josta aluksi kaikki matkustajat juoksutettiin toiseen
+junaan, joka sekään ei lopulta liikkunut yhtään minnekään.
+
+{% img /pics/sbahn.jpg S75 odottaa turhaan Warschauer Straßella lähtöä Ostbahnhofiin %}
+
+Lopulta pääsimme raitiovaunulla ja metrolla Alexanderplatzille Mitten kaupunginosaan,
+josta koitimme etsiä vielä muutaman tarpeellisen asian elokuuksi. Mitte on yksi vanhoista
+boheemikaupunginosista, jonka turistit ovat melko pian muuttaneet vähemmän kiinnostavaksi
+asuinseuduksi -- löytyyhän alueelta Berliinin turistinähtävyyksiä, kuten [Unter den Linden](http://en.wikipedia.org/wiki/Unter_den_Linden), 
+[Alexanderplatzin TV-torni](http://en.wikipedia.org/wiki/Fernsehturm_Berlin), 
+[Brandenburgin portti](http://en.wikipedia.org/wiki/Brandenburg_Gate) ja 
+[Checkpoint Charlie](http://en.wikipedia.org/wiki/Checkpoint_Charlie). 
+Hinnat ovat selkeästi Kreuzbergiä tai Friedrichshainia korkeammat ja
+varsinkin ruokailu Mittessä ei ole kovin halpaa enää. Mittestä kuitenkin löytyy
+Berliinin parhaita muotikatuja ja pieneltä alueelta löytää kaikkien
+merkittävimpien muotitalojen merkkimyymälät.
+
+{% img /pics/aleksi.jpg Alexanderplatzin ostos- ja turistihelvetti %}
+
+Alexanderplatzin pohjoispuolella on jo tiiviimpää arkkitehtuuria ja joitain puistoja --
+esimerkiksi tulevan työpaikkani lähellä Ackerstraßella on jopa yksi puisto sekä muutama
+vallattu talo turistinähtävyyksinä. Mittessä on paljon aivan viimeisen päälle kunnostettuja
+asuntoja, mutta hakemamme 70-90 neliön kokoluokan hintataso on reilusti yli tuhat euroa
+kuukaudessa. Tämän lisäksi korkeat hinnat sekä valtaisa turistien määrä on alkanut
+karkoittaa myös Mittessä pitkään asuneita Kreuzbergin tai Neuköllnin suuntaan.
+
+{% img /pics/joutomaa.jpg Joutomaa, graffitteja ja remontoitu kerrostalo täynnä loistoasuntoja %}
+
+Kuitenkin yksi asia Mittessä on, jonka vuoksi siellä kannattaa vierailla säännöllisesti.
+Alexanderplatzilta löytyy Itä-Berliinin ylpeys, ostoskeskus 
+[Galeria Kaufhof](http://www.galeria-kaufhof.de/sales/unternehmen/filialen/berlin-alexanderplatz.asp), joka on pelkästään
+arkkitehtuuriltaan näkemisen arvoinen. Kaufhofin herkkupuoti on tajunnanräjäyttävä ja Saara myös kehui
+paikan meikkivalikoimaa erinomaiseksi. Aleksin ympäristössä on myös elektroniikkakauppa 
+[Saturn](http://www2.saturn.de/webapp/wcs/stores/servlet/main?storeId=12054&catalogId=11554&langId=-3&ok=T_HOME&uk=NONE),
+jonka lukuisista kerroksista ja pinta-alaltaan tuhansien neliöiden kerroksista löytyy halpaa elektroniikkaa
+enemmän, mitä edes minä jaksaisin koskaan penkoa. Monet elektroniikan laatumerkit valmistetaan Saksassa,
+jolloin niitä saa erittäin halvalla myös kaupoista.
+
+TV-torniin emme ole vieläkään päässeet käymään. Ehkä äidin kanssa lokakuussa...
