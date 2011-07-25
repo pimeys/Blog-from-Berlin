@@ -3,7 +3,7 @@ layout: post
 title: "Karlshorst, Lictenberg"
 date: 2011-07-24 20:25
 comments: true
-categories: neighborhoods
+categories: kaupunginosat
 ---
 
 Olemme valinneet pyöräretkillemme kohteita välillä kummallisin perustein.
